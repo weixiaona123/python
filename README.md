@@ -121,4 +121,4 @@ See [Selenium - Desired Capabilities](https://github.com/SeleniumHQ/selenium/wik
 
 * Run tests concurrently
 * Optimize configuration files and add scripts
-* Dockerfile for scaling, see [docker-selenium](https://github.com/SeleniumHQ/docker-selenium)
+* Dockerfile for scaling, see [docker-selenium](https://github.com/SeleniumHQ/docker-selenium)# python
