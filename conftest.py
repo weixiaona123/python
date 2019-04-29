@@ -30,7 +30,7 @@ def app(browser_name, platform):
     :param platform: Name of platform
     :return: Application
     """
-    return Application(browser_name, platform)
+    return Applicaaddoptstion(browser_name, platform)
 
 
 @pytest.fixture(autouse=True, scope='session')
